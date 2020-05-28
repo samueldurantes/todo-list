@@ -9,7 +9,6 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "fold-to-ascii": "^5.0.0",
-    "foundation-sites": "^6.6.3",
     "lodash": "^4.17.15",
     "uuid": "^8.1.0",
     "vue": "^2.6.11",
